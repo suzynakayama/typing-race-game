@@ -1,5 +1,5 @@
 import React, { useState, FormEvent, useRef } from "react";
-import { PHRASES } from "./snippets";
+import { PHRASES } from "./phrases";
 import { Game } from "./types";
 import "./App.css";
 
