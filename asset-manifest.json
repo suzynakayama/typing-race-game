@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typing-race-game/static/css/main.82de018a.chunk.css",
+    "main.js": "/typing-race-game/static/js/main.8d3f50cd.chunk.js",
+    "main.js.map": "/typing-race-game/static/js/main.8d3f50cd.chunk.js.map",
+    "runtime-main.js": "/typing-race-game/static/js/runtime-main.a2a6d0c8.js",
+    "runtime-main.js.map": "/typing-race-game/static/js/runtime-main.a2a6d0c8.js.map",
+    "static/js/2.fd3ed373.chunk.js": "/typing-race-game/static/js/2.fd3ed373.chunk.js",
+    "static/js/2.fd3ed373.chunk.js.map": "/typing-race-game/static/js/2.fd3ed373.chunk.js.map",
+    "index.html": "/typing-race-game/index.html",
+    "precache-manifest.ed4e393f674b9a196c0f4a78fa38c5ac.js": "/typing-race-game/precache-manifest.ed4e393f674b9a196c0f4a78fa38c5ac.js",
+    "service-worker.js": "/typing-race-game/service-worker.js",
+    "static/css/main.82de018a.chunk.css.map": "/typing-race-game/static/css/main.82de018a.chunk.css.map",
+    "static/js/2.fd3ed373.chunk.js.LICENSE.txt": "/typing-race-game/static/js/2.fd3ed373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a6d0c8.js",
+    "static/js/2.fd3ed373.chunk.js",
+    "static/css/main.82de018a.chunk.css",
+    "static/js/main.8d3f50cd.chunk.js"
+  ]
+}
